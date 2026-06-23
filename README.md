@@ -1,7 +1,7 @@
 
 <div align="center" style="display: flex;">
 
-<img src="imgs/bannerReadMe.png"/>
+<img src="imagens/bannerReadMe.png"/>
 <div align="center" style="display:flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40px"/>
@@ -18,7 +18,7 @@ A ideia para o projeto surgiu a partir da observação da necessidade real das f
 <p>O projeto foi pensado porque no Brasil a população não tem uma gestão tão eficiente dos gastos domésticos, principalmente em relação ao de energia elétrica, que representa uma fração considerável, que precisa ser mais bem planejada e observada pela população em geral.
 </p>
 
-<img src="imgs/modelReadMe.png"/>
+<img src="imagens/modelReadMe.png"/>
 
 <h1>Visualização</h1>
 <h5>(Não Disponivel)</h5>
