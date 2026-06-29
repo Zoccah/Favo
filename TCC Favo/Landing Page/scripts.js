@@ -7,7 +7,7 @@ topicsHeader.forEach((topic,i) => {
 
     topic.addEventListener("click", () =>{
         if (topic.classList.contains("selectedTopic")){
-            topic.classList.remove("selectedTopic");
+            topic.classList.remove("selectedTopic"); 
         }else{
             topicsHeader.forEach((topic,i) =>{
                 topic.classList.remove("selectedTopic");
